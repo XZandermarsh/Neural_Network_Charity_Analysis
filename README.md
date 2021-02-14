@@ -1,6 +1,7 @@
 # Neural_Network_Charity_Analysis
  
 # Overview
+### This analysis attempted to build a machine learning model for predicting the success of charity efforts using deep learning.
 
 ## Data Preprocessing
 ### What variables are considered the target for your model?
